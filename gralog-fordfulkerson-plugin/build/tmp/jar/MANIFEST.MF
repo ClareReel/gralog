@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Implementation-Title: GrALoG Ford-Fulkerson Plugin
+Implementation-Version: 1.0.0
+Plugin-Class: gralog.fordfulkerson.FordFulkersonPlugin
+
