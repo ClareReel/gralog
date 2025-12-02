@@ -1,0 +1,19 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(cat:*)",
+      "Bash(./gradlew clean build:*)",
+      "Bash(gradle clean build:*)",
+      "Bash(cmd //c:*)",
+      "Bash(bash gradlew clean build)",
+      "Bash(jar -tf:*)",
+      "Bash(bash gradlew test)",
+      "Bash(bash gradlew:*)",
+      "Bash(chmod:*)",
+      "Bash(unzip:*)",
+      "Bash(javap:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
